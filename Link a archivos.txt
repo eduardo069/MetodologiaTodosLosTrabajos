@@ -1,0 +1,16 @@
+Diagrama de secuencia(commits phyton): https://drive.google.com/file/d/1xu2t33CLEns6ADh1nqYy0dDth4NKWvtq/view?usp=sharing
+Modelo del proceso del software: https://drive.google.com/file/d/1JkT0Gt7EKd3esAwGs2DDzOYVpimlAqXW/view?usp=sharing
+Patrones, refactorización y antipatrones en programación.pptx: https://docs.google.com/presentation/d/10Z97p1SJDuT9RxHGgyYome0PNmt6jS53ugomPgGuTOk/edit?usp=sharing
+Proceso software: https://drive.google.com/file/d/1ur_ywu-a3opO6ZalKN81LvN4_IQamONr/view?usp=sharing
+Calendario actividades en equipo: https://docs.google.com/spreadsheets/d/13vMCsryggitdpLKhljXw42sVGGuP9KSlFTv5RcCkFVg/edit?usp=sharing
+Examen practico 1: https://bitbucket.org/fabtl10/elevate/src/master/
+Casos de uso: https://drive.google.com/file/d/1W5fvoGXxl3oN4yg9ynq_QFLsJRW_hnVT/view?usp=sharing
+Sistema de gestion de pedidos: https://drive.google.com/file/d/150zs6v2k8wA4sSvRdWTNJGEQarXbht-y/view?usp=sharing
+Diagrama de clases: https://drive.google.com/file/d/1yZhByQRItcDpL-qEt69tzubRfP9CeBZZ/view?usp=sharing
+Bitbucketcounter: https://drive.google.com/file/d/1DRhHjqf4k1xoD6aBYq_Q_PwtD040sF5W/view?usp=sharing
+Diagrama llaves: https://drive.google.com/file/d/1twMeOJo-QIydbVEAdNp709J6UC09k13_/view?usp=sharing
+Elevador: https://drive.google.com/file/d/1zWHrIESCs7A4f45Dq27OoguD-6NlMMil/view?usp=sharing
+Cursos: https://drive.google.com/file/d/1Kc3i8pv98BJGOFPx8gOWVgV45M5pGRTt/view?usp=sharing
+ExamenParcial1DiagramaPaquetes: https://drive.google.com/file/d/1TOjMk2gu1eMJn5iY2vmzw53bva-8XtmS/view?usp=sharing
+BitBucketCommitCounterPackageDiagram: https://drive.google.com/file/d/1c2mfXmQ7nwMqC8gDFuOAgON_7bteRs50/view?usp=sharing
+DiagramaPaquetesChocolate: https://drive.google.com/file/d/1RicJiFIMsNvUpUqgYrhSuU3zKnhhX3eO/view?usp=sharing

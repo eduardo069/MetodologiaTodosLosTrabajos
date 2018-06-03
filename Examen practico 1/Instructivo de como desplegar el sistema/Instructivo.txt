@@ -1,0 +1,6 @@
+*Descargar intellij
+*Abrir Intellij y abrir el programa
+*Correr el programa
+*Presiona el piso al que quieras ir.
+*Si desea parar de emergencia, presione el botón rojo con una E.
+*Si lo desea puede abrir o cerrar las puertas del elevador, siempre y cuando no estén en movimiento.
